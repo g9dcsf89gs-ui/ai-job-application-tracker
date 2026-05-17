@@ -6,13 +6,9 @@ This project was built as an entry-level portfolio showcase for junior AI, QA, p
 
 ## Live Demo
 
-Deployment target: Vercel.
+[Live Demo](https://ai-job-application-tracker-hazel.vercel.app)
 
-The app is designed to work without environment variables, so the deployed demo can run safely with mock AI responses. Add the live URL here after deployment:
-
-```text
-Live Demo: coming soon
-```
+The app is designed to work without environment variables, so the deployed demo can run safely with mock AI responses.
 
 ## Screenshots
 
